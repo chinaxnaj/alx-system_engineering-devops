@@ -1,2 +1,2 @@
 #!/bin/bash
-Dis readme
+Readme
