@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod g-r 'dir0' 'dir1' 'dir2'
